@@ -105,6 +105,7 @@ span.result {
   background-color: rgb(134, 65, 65) !important;
 }
 
+
 @media (max-width: 400px) {
   #calculator {
     width: 20rem;

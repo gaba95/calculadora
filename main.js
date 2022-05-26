@@ -13,6 +13,7 @@ nums.forEach((num) => {
     } else {
       val += char;
     }
+    
 
     if (val.match(/[0-9]+[+-\/*][+-\/*]+/gi)) {
       const operator = val[val.length - 1];
